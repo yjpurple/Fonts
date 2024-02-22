@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/*
+
+https://my.3dexperience.3ds.com/resources/3466285536/ko/webapps/UIKIT/assets/fonts/3ds-icon.woff2
+https://my.3dexperience.3ds.com/resources/3466285536/ko/webapps/UIKIT/assets/fonts/3ds-icon.woff
+
+@font-face{
+	font-family:entypo;
+	src:
+		url('https://my.3dexperience.3ds.com/resources/3466285536/ko/webapps/UIKIT/assets/fonts/3ds-icon.woff2') format('woff2'),
+		url('https://my.3dexperience.3ds.com/resources/3466285536/ko/webapps/UIKIT/assets/fonts/3ds-icon.woff') format('woff');
+	font-weight:400;
+	font-style:normal
+}
+*/
+
+@font-face{
+	font-family:entypo;
+	src:
+		url('3ds-icon.woff2') format('woff2');
+	font-weight:400;
+	font-style:normal
+}
+
+.entypo {
+	font-family:entypo;
+}
+

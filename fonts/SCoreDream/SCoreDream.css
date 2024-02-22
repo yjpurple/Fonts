@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+/* SCoreDream */
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 100;
+	src: 
+		url("SCoreDream1.woff2") format('woff2');
+}
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 200;
+	src: 
+		url("SCoreDream2.woff") format('woff');
+}
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 300;
+	src: 
+		url("SCoreDream3.woff2") format('woff2');
+}
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 400;
+	src: 
+		url("SCoreDream4.woff2") format('woff2');
+}
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 500;
+	src: 
+		url("SCoreDream5.woff2") format('woff2');
+}
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 600;
+	src: 
+		url("SCoreDream6.woff2") format('woff2');
+}
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 700;
+	src: 
+		url("SCoreDream7.woff2") format('woff2');
+}
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 800;
+	src: 
+		url("SCoreDream8.woff") format('woff');
+}
+@font-face {
+	font-family: 'SCoreDream';
+	font-weight: 900;
+	src: 
+		url("SCoreDream9.woff") format('woff');
+}
+
+.scoredream {
+	font-family: 'SCoreDream';
+}
