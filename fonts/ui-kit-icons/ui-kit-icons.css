@@ -27,6 +27,13 @@ i.ds-ico-back-icon:before,
 i.ds-ico-down-chevron-icon:before {
   font-size: 32px;
 }
+
+/* additional */
+i.ds-ico-clock-icon:before {
+	content: "\e901";
+}
+
+/* original */
 i.ds-ico-burger-icon:before {
   content: "\e900";
 }
